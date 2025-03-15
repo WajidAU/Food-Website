@@ -2,6 +2,10 @@
     flex-direction: column;
 }
 
+.h-secondary{
+    font-size: 1.7rem;
+}
+
 #navbar ul li a{
     font-size: 1rem;
 
@@ -61,6 +65,6 @@ width: 75%;
     padding: 2px 2px;
 }
 
-footer{
-
+#contact-box label{
+    font-weight:500;
 }
