@@ -4,6 +4,7 @@
 
 #navbar ul li a{
     font-size: 1rem;
+
     padding: 0px 10px;
     padding-bottom: 8px;
 }
@@ -46,8 +47,8 @@ flex-direction: column;
     flex-wrap: wrap;
 }
 #clients img{
-    width: 25px;
-    height: 25px;
+    width: 90px;
+    height: 90px;
     padding: 5px;
     height: auto;
 }
